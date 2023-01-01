@@ -52,7 +52,7 @@ You: Uh...
 ---
 ## 😢😢😢
 ---
-!(../assets/aws-lambda.png)
+![AWS Lambda Logo](../assets/aws-lambda.png)
 
 ---
 ## 😢😢😢
